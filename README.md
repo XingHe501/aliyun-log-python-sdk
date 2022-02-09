@@ -2,7 +2,7 @@
 
 ## Windows下使用python2.7安装aliyun-log-python-sdk并使用aliyun.log包
 
-### 1.安装VCForPython27.msi。避免出现因为c++9.0报错
+### 1.安装VCForPython27.msi。避免出现因为error: Microsoft Visual C++ 9.0 is required报错
 
 ### 2. 
 
@@ -24,7 +24,6 @@ pip install -U aliyun-log-python-sdk -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 或者
 pip install -U aliyun-log-python-sdk
 ```
-
 
 
 ### 4. 在pycharm中生效
