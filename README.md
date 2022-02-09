@@ -8,7 +8,8 @@
 
 ```bash
 pip install wheel
-# 手动安装regex，使用目录下的whl文件，可以根据电脑系统下载对应版本。网址：https://www.lfd.uci.edu/~gohlke/pythonlibs
+# 手动安装regex，使用目录下的whl文件，可以根据电脑系统下载对应版本。
+# 网址：https://www.lfd.uci.edu/~gohlke/pythonlibs
 pip install regex-2020.1.8-cp27-cp27m-win_amd64.whl
 
 ```
